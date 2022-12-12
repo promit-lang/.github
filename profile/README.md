@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-This organization repositories is still under development. Please refer to https://github.com/singul4ri7y/promit for current Promit programming language implementation.
+This organization repositories are still under development. Please refer to https://github.com/singul4ri7y/promit for current Promit programming language implementation.
 
 <!--
 **Here are some ideas to get you started:**
